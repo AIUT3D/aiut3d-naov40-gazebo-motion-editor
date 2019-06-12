@@ -20,7 +20,7 @@
  http://gazebosim.org/tutorials?tut=install_ubuntu&ver=7.0
 
 * Please build aiut-nao package from source according to:
- https://github.com/AIUT3D/aiut3d-motion-editor
+ https://github.com/AIUT3D/aiut-nao
 
 #### Build
 * cd to the motion editor root directory.
