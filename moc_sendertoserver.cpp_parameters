@@ -1,0 +1,5 @@
+-DROS_PACKAGE_NAME="MotionEditor"
+-DROSCONSOLE_BACKEND_LOG4CXX
+-o
+/home/seyed/Desktop/gazebo_nao/aiut3d-motion-editor-master/moc_sendertoserver.cpp
+/home/seyed/Desktop/gazebo_nao/aiut3d-motion-editor-master/sendertoserver.h
